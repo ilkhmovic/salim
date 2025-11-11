@@ -1,0 +1,14 @@
+/home/doston/salom/bin/Debug/net8.0/salom
+/home/doston/salom/bin/Debug/net8.0/salom.deps.json
+/home/doston/salom/bin/Debug/net8.0/salom.runtimeconfig.json
+/home/doston/salom/bin/Debug/net8.0/salom.dll
+/home/doston/salom/bin/Debug/net8.0/salom.pdb
+/home/doston/salom/obj/Debug/net8.0/salom.GeneratedMSBuildEditorConfig.editorconfig
+/home/doston/salom/obj/Debug/net8.0/salom.AssemblyInfoInputs.cache
+/home/doston/salom/obj/Debug/net8.0/salom.AssemblyInfo.cs
+/home/doston/salom/obj/Debug/net8.0/salom.csproj.CoreCompileInputs.cache
+/home/doston/salom/obj/Debug/net8.0/salom.dll
+/home/doston/salom/obj/Debug/net8.0/refint/salom.dll
+/home/doston/salom/obj/Debug/net8.0/salom.pdb
+/home/doston/salom/obj/Debug/net8.0/salom.genruntimeconfig.cache
+/home/doston/salom/obj/Debug/net8.0/ref/salom.dll
